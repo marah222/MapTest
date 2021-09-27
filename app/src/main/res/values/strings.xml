@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MapTest</string>
+    <string name="API_KEY">AIzaSyAiAir1uMz3NwJDd9vjIhqeEuTUgw2S7VM</string>
+    <string name="API_KEY_1">AIzaSyB1exAOzcpLFfG7Qk0OSzeZACRLZcKr5DQ</string>
+    <string name="API_KEY_2">AIzaSyA3OvjVTGgpV15aYaak6KXVB6Z5JGk1zRU</string>
+    <string name="API_KEY_3">AIzaSyCCVFpeACtNvqhBfRSB0RjDEs0ztE7cBaY</string>
+    <string name="ADMOB_APP_ID">ca-app-pub-2559564046715323~6653115980</string>
+</resources>
